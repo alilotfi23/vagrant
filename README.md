@@ -18,4 +18,4 @@ vagrant up
 vagrant ssh
 ```
 ## count
-if you want more VM you can use {Count} to create more than 1 VM 
+if you want more VMs you can use {Count} to create more than 1 VM 
