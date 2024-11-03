@@ -1,5 +1,5 @@
 # Vagrant VirtualBox 
-Vagrant file for up Ubuntu machine on VirtualBox.
+The vagrant file is for the Ubuntu machine on VirtualBox.
 ##  Install Ubuntu Box
 
 Install Vagrant box
